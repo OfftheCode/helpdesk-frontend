@@ -1,5 +1,8 @@
 # helpdesk-frontend
 
+Frontend part of helpdesk application
+more to come ...
+
 ## Project setup
 ```
 npm install
